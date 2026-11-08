@@ -45,5 +45,40 @@
       "viber": true,
       "whatsapp": false
     }
+  },
+  {
+    "id": "tetiana-astakhova-ivan-poremchuk",
+    "name": "Тетяна Астахова та Іван Поремчук",
+    "type": "duo",
+    "photo": "assets/img/coaches/tetiana-astakhova-ivan-poremchuk.webp",
+    "photoFallback": "assets/img/coaches/tetiana-astakhova-ivan-poremchuk.jpg",
+    "disciplines": [
+      "Грепплінг",
+      "ММА"
+    ],
+    "members": [
+      {
+        "name": "Тетяна Астахова",
+        "achievements": [
+          "Дворазова чемпіонка світу з грепплінгу",
+          "Бронзова призерка чемпіонату світу з грепплінгу"
+        ]
+      },
+      {
+        "name": "Іван Поремчук",
+        "achievements": [
+          "Триразовий чемпіон світу з ММА",
+          "Чемпіон Європи з ММА",
+          "Майстер спорту з ММА та грепплінгу"
+        ]
+      }
+    ],
+    "halls": [
+      "karbysheva"
+    ],
+    "groups": "Діти до 13 років",
+    "contacts": {
+      "telegram": "https://t.me/Tanya_Astakhova"
+    }
   }
 ]
