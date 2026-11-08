@@ -27,5 +27,19 @@
       "Чемпіон України з ММА",
       "Чемпіон України з грепплінгу"
     ]
+  },
+  {
+    "id": "artem-panasiuk",
+    "name": "Артем Панасюк",
+    "photo": "assets/img/athletes/artem-panasiuk.webp",
+    "photoFallback": "assets/img/athletes/artem-panasiuk.jpg",
+    "disciplines": [
+      "ММА",
+      "Козацький двобій"
+    ],
+    "achievements": [
+      "Срібний призер чемпіонату України з ММА",
+      "П'ятиразовий чемпіон України з козацького двобою"
+    ]
   }
 ]
