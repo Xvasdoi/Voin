@@ -4,10 +4,28 @@
     "name": "Давид Зінчук",
     "photo": "assets/img/athletes/davyd-zinchuk.webp",
     "photoFallback": "assets/img/athletes/davyd-zinchuk.jpg",
-    "disciplines": ["Панкратіон", "ММА"],
+    "disciplines": [
+      "Панкратіон",
+      "ММА"
+    ],
     "achievements": [
       "Чемпіон Європи з панкратіону",
       "Дворазовий чемпіон України з ММА"
+    ]
+  },
+  {
+    "id": "tymur-zinchuk",
+    "name": "Тимур Зінчук",
+    "photo": "assets/img/athletes/tymur-zinchuk.webp",
+    "photoFallback": "assets/img/athletes/tymur-zinchuk.jpg",
+    "disciplines": [
+      "Грепплінг",
+      "ММА"
+    ],
+    "achievements": [
+      "Чемпіон світу з грепплінгу",
+      "Чемпіон України з ММА",
+      "Чемпіон України з грепплінгу"
     ]
   }
 ]
