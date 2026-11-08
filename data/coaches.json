@@ -1,15 +1,42 @@
 [
   {
+    "id": "andrii-zinchuk",
+    "name": "Андрій Зінчук",
+    "role": "Головний тренер",
+    "photo": "assets/img/coaches/andrii-zinchuk.webp",
+    "photoFallback": "assets/img/coaches/andrii-zinchuk.jpg",
+    "disciplines": [
+      "ММА"
+    ],
+    "achievements": [
+      "Заслужений тренер України",
+      "Тренер національної збірної України з ММА (дорослі)"
+    ],
+    "halls": [
+      "karbysheva"
+    ],
+    "groups": "Лише для досвідчених спортсменів",
+    "experiencedOnly": true,
+    "contacts": {
+      "phone": "+380674647795",
+      "phoneDisplay": "+380 67 464 77 95"
+    }
+  },
+  {
     "id": "andrii-misiuk",
     "name": "Андрій Місюк",
     "photo": "assets/img/coaches/andrii-misiuk.webp",
     "photoFallback": "assets/img/coaches/andrii-misiuk.jpg",
-    "disciplines": ["ММА"],
+    "disciplines": [
+      "ММА"
+    ],
     "achievements": [
       "Чемпіон Європи з ММА",
       "Професійний рекорд 6-0-0"
     ],
-    "halls": ["karbysheva"],
+    "halls": [
+      "karbysheva"
+    ],
     "groups": "Усі вікові групи та рівні: діти, дорослі, початківці й спортсмени",
     "contacts": {
       "telegram": "https://t.me/lutsk2722",
