@@ -41,5 +41,19 @@
       "Срібний призер чемпіонату України з ММА",
       "П'ятиразовий чемпіон України з козацького двобою"
     ]
+  },
+  {
+    "id": "davyd-shvahruk",
+    "name": "Давид Швагрук",
+    "photo": "assets/img/athletes/davyd-shvahruk.webp",
+    "photoFallback": "assets/img/athletes/davyd-shvahruk.jpg",
+    "disciplines": [
+      "Грепплінг",
+      "Козацький двобій"
+    ],
+    "achievements": [
+      "Срібний призер чемпіонату України з грепплінгу",
+      "Чемпіон України з козацького двобою"
+    ]
   }
 ]
