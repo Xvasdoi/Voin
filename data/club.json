@@ -1,0 +1,24 @@
+{
+  "name": "Воїн",
+  "fullName": "Спортивна академія змішаних єдиноборств «Воїн»",
+  "city": "Луцьк",
+  "halls": [
+    {
+      "id": "lvivska",
+      "title": "Зал на Львівській",
+      "address": "вул. Львівська, 75, Луцьк, Волинська область, 43000",
+      "mapUrl": "https://maps.app.goo.gl/R7CHGskqYww7orPp9"
+    },
+    {
+      "id": "karbysheva",
+      "title": "Зал на Карбишева",
+      "address": "вул. Карбишева, 1, Луцьк, Волинська область, 43000",
+      "mapUrl": "https://maps.app.goo.gl/UCqbPQ3HKP9yiX9S9"
+    }
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/voinlutskmma",
+    "tiktok": "https://www.tiktok.com/@voinlutskmma1",
+    "telegramChannel": "https://t.me/mmavoin2026"
+  }
+}

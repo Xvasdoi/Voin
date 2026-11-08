@@ -1,0 +1,19 @@
+[
+  {
+    "id": "andrii-misiuk",
+    "name": "Андрій Місюк",
+    "photo": "assets/img/coaches/andrii-misiuk.webp",
+    "photoFallback": "assets/img/coaches/andrii-misiuk.jpg",
+    "disciplines": ["ММА"],
+    "achievements": [
+      "Чемпіон Європи з ММА",
+      "Професійний рекорд 6-0-0"
+    ],
+    "halls": [],
+    "contacts": {
+      "telegram": "https://t.me/lutsk2722",
+      "phone": "+380507012205",
+      "phoneDisplay": "+380 50 701 22 05"
+    }
+  }
+]
