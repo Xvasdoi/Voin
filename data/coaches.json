@@ -9,11 +9,14 @@
       "Чемпіон Європи з ММА",
       "Професійний рекорд 6-0-0"
     ],
-    "halls": [],
+    "halls": ["karbysheva"],
+    "groups": "Усі вікові групи та рівні: діти, дорослі, початківці й спортсмени",
     "contacts": {
       "telegram": "https://t.me/lutsk2722",
       "phone": "+380507012205",
-      "phoneDisplay": "+380 50 701 22 05"
+      "phoneDisplay": "+380 50 701 22 05",
+      "viber": true,
+      "whatsapp": false
     }
   }
 ]
