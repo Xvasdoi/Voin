@@ -1,0 +1,13 @@
+[
+  {
+    "id": "davyd-zinchuk",
+    "name": "Давид Зінчук",
+    "photo": "assets/img/athletes/davyd-zinchuk.webp",
+    "photoFallback": "assets/img/athletes/davyd-zinchuk.jpg",
+    "disciplines": ["Панкратіон", "ММА"],
+    "achievements": [
+      "Чемпіон Європи з панкратіону",
+      "Дворазовий чемпіон України з ММА"
+    ]
+  }
+]
