@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xvasdoi.github.io/Voin/sitemap.xml
